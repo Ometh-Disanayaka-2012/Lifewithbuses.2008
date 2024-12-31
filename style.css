@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
 
-main{
+#index-main{
     background-image: url("maxresdefault.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -41,5 +41,9 @@ main{
     font-family: "Oleo Script", serif;
     font-weight: 700;
     font-style: normal;
+  }
+
+  section div{
+    padding: 20px;
   }
   
